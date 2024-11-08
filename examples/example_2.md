@@ -1,5 +1,6 @@
 ---
 title: Example 2
+subtitle: hi mom
 parent: Examples
 layout: default
 ---

@@ -3,5 +3,6 @@ title: Examples
 layout: default
 ---
 
-Examples
-==
+# Examples
+
+Some Jupyter examples

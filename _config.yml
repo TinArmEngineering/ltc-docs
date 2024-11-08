@@ -4,11 +4,18 @@ theme: just-the-docs
 
 url: https://tinarmengineering.github.io/docs
 
+aux_links_new_tab: true
 aux_links:
-  Template Repo: https://github.com/tinarmengineering/docs
-  LTC: https://app.ltc.tinarmengineering.com
+  LTC:MotorTwin: https://app.ltc.tinarmengineering.com
+  OpenAPI: https://api.ltc.tinarmengineering.com/docs/index.html
 
-logo: "https://avatars.githubusercontent.com/u/67412053?s=100"
+
+logo: "assets/ltc-logo.png"
 
 plugins:
   - jekyll-jupyter-notebook
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.4.0"
