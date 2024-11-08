@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://tinarmengineering.github.io/docs
 
 aux_links:
-  Template Repository: https://github.com/tinarmengineering/docs
+  Template Repo: https://github.com/tinarmengineering/docs
+  LTC: https://app.ltc.tinarmengineering.com
 
 logo: "https://avatars.githubusercontent.com/u/67412053?s=100"
