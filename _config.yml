@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Linked Tool Chain Documentation
+description: Documentation for Tin Arm Engineering's Linked Tool Chain
 theme: just-the-docs
 
 url: https://tinarmengineering.github.io/docs
@@ -9,3 +9,6 @@ aux_links:
   LTC: https://app.ltc.tinarmengineering.com
 
 logo: "https://avatars.githubusercontent.com/u/67412053?s=100"
+
+plugins:
+  - jekyll-jupyter-notebook
