@@ -8,9 +8,9 @@ aux_links_new_tab: true
 aux_links:
   LTC:MotorTwin: https://app.ltc.tinarmengineering.com
   OpenAPI: https://api.ltc.tinarmengineering.com/docs/index.html
+  PyPI: https://pypi.org/project/ltc-client/
 
-
-logo: "assets/ltc-logo.png"
+logo: "assets/images/ltc-logo.png"
 
 plugins:
   - jekyll-jupyter-notebook
@@ -19,3 +19,5 @@ mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "11.4.0"
+
+math: katex
