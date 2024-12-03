@@ -1,7 +1,7 @@
 ---
 title: Basic Machine Design
 layout: home
-nav_order: 10
+nav_order: 100
 ---
 # Basic Machine Design
 
