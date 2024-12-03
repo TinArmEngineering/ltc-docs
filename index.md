@@ -29,11 +29,3 @@ block-beta
 ```
 
 Tin Arm's first application, and the focus of this documentation, is MotorTwin; a multiphysics solver for the simulation of electric machines.
-
-## Getting started
-
-See the [examples]({{site.baseurl}}/examples).
-```js
-pip install ltc_client
-```
-

@@ -1,7 +1,6 @@
 ---
 title: Example 2
-subtitle: hi mom
-parent: Examples
+parent: hidden
 layout: default
 ---
 

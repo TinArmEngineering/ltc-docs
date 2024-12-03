@@ -1,6 +1,6 @@
 ---
 title: Example 1
-parent: Examples
+parent: hidden
 layout: default
 nav_order: 0
 ---
