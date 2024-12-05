@@ -4,10 +4,22 @@ layout: default
 nav_order: 20
 ---
 
-# API
+## Get example job
 
-Examples to follow for direct use of the API.
+```bash
+curl -o example.json https://api.ltc.tinarmengineering.com/jobs/electromagnetic_ipmv_fscwseg
+```
 
-See ***OpenAPI*** above for API docs.
+## Create new job from example job
 
+```bash
+curl -X POST https://api.ltc.tinarmengineering.com/jobs?apikey=my-api-key \
+     -d @em_ipmv_fscwseg_example.json \
+     -H "Content-Type: application/json"
+```
 
+## Retrieve a job by its ID
+
+```bash
+curl https://api.ltc.tinarmengineering.com/jobs/my-job-id?apikey=my-api-key
+```
