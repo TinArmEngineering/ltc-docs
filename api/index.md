@@ -17,7 +17,7 @@ nav_order: 20
 
 ## Prerequisites
 
-These examples are written in bash script and require the command line tools curl and jq.  These are are often pre-installed or easy to install through your local package manager.
+These examples are written in bash script and require the command line tools curl and jq.  These are often pre-installed or easy to install through your local package manager.
 
 - [curl](https://curl.se/){:target="_blank"} for transferring data with URLs
 - [jq](https://jqlang.github.io/jq/download/){:target="_blank"} for parsing JSON responses
